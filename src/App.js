@@ -1,4 +1,5 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
+import {useEffect, useState} from 'preact/hooks'
 import './App.css';
 
 function App() {
