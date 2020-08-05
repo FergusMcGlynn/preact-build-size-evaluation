@@ -45,6 +45,10 @@
     "postcss-preset-env": "6.7.0",
     "postcss-safe-parser": "4.0.1",
     "preact": "^10.4.6",
+    "aws-amplify": "^3.0.22",
+    "aws-amplify-react": "^4.1.21",
+    "env-cmd": "^10.1.0",
+    "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
     "react-dev-utils": "^10.2.1",
@@ -60,7 +64,12 @@
     "webpack": "4.42.0",
     "webpack-dev-server": "3.10.3",
     "webpack-manifest-plugin": "2.2.0",
-    "workbox-webpack-plugin": "4.3.1"
+    "workbox-webpack-plugin": "4.3.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-select": "^3.1.0",
+    "reactjs-popup": "^1.5.0",
+    "source-map-explorer": "^2.4.2"
   },
   "scripts": {
     "start": "node scripts/start.js",
